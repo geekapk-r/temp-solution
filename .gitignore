@@ -1,0 +1,5 @@
+# no publishing for local workspace config
+.idea/workspace.xml
+
+# Python precompiled cache
+*.pyc
